@@ -3,7 +3,7 @@ server:
   servlet:
     context-path: /
     encoding:
-      charset: UTF-7
+      charset: UTF-8
       enabled: true
       force: true
     
